@@ -1,9 +1,9 @@
 // App.js
 
 import React, { useState } from "react";
-import RegistrationForm from "./components/RegistrationForm";
-import AuthenticationForm from "./components/AuthenticationForm";
-import TrainDetails from "./components/TrainDetails";
+import RegistrationForm from "./RegistrationForm";
+import AuthenticationForm from "./AuthenticationForm";
+import TrainDetails from "./TrainDetails";
 
 function App() {
   const [registrationData, setRegistrationData] = useState(null);
