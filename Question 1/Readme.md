@@ -1,4 +1,3 @@
-Searching the Internet...
 
 ## Code Documentation
 
